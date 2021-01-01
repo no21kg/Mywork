@@ -1,0 +1,12 @@
+D:\Files\CS\FinanceCal\FinanceCal\bin\Debug\FinanceCal.exe.config
+D:\Files\CS\FinanceCal\FinanceCal\bin\Debug\FinanceCal.exe
+D:\Files\CS\FinanceCal\FinanceCal\bin\Debug\FinanceCal.pdb
+D:\Files\CS\FinanceCal\FinanceCal\obj\Debug\FinanceCal.csprojAssemblyReference.cache
+D:\Files\CS\FinanceCal\FinanceCal\obj\Debug\FinanceCal.Form1.resources
+D:\Files\CS\FinanceCal\FinanceCal\obj\Debug\FinanceCal.Properties.Resources.resources
+D:\Files\CS\FinanceCal\FinanceCal\obj\Debug\FinanceCal.csproj.GenerateResource.cache
+D:\Files\CS\FinanceCal\FinanceCal\obj\Debug\FinanceCal.csproj.CoreCompileInputs.cache
+D:\Files\CS\FinanceCal\FinanceCal\obj\Debug\FinanceCal.exe
+D:\Files\CS\FinanceCal\FinanceCal\obj\Debug\FinanceCal.pdb
+D:\Files\CS\FinanceCal\FinanceCal\obj\Debug\FinanceCal.TestPanel.resources
+D:\Files\CS\FinanceCal\FinanceCal\obj\Debug\FinanceCal.FinancePanel.resources
